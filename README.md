@@ -7,6 +7,7 @@ Integrantes:
 - Lucas Parkin Devito, RM 573251
 
 Descrição do Projeto:
+  
   Um sistema desenvolvido para analisar dados operacionais simulados, fornecidos pelo usuário, relacionados à temperatura, energia, comunicação e geração de energia solar, permitindo a identificação e prevenção de situações críticas e ajudando na tomada de decisões. 
   O sistema é capaz de receber, interpretar e exibir dados simulados de uma missão espacial experimental, gerando alertas automáticos, sugerindo ações e calculando o estado geral da nave.
 
