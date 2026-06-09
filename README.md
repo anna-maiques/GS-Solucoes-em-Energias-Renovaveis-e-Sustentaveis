@@ -25,6 +25,8 @@ Como executar:
 
 Vídeo:
 
+https://youtu.be/tdn5EhxAdQM?si=gE1vE2VGPvrHb24M
+
 Google colab: 
 
 https://colab.research.google.com/drive/1029luluvFPSxsTl0o3ingNfRHj7U8-hm?usp=sharing 
